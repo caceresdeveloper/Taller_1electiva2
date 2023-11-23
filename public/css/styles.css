@@ -1,0 +1,35 @@
+.navbar {
+  background-color: #000000;
+  
+  /* Puedes cambiar el color según tus preferencias */
+}
+
+.navbar-brand {
+  color: #f8d211;
+  /* Puedes cambiar el color según tus preferencias */
+}
+
+.nav-link active {
+  color: #f8d211;
+  /* Puedes cambiar el color según tus preferencias */
+}
+
+.nav-link {
+  color: #f8d211;
+  /* Puedes cambiar el color según tus preferencias */
+}
+
+
+.boton {
+  color: #f8d211;
+  /* Puedes cambiar el color según tus preferencias */
+}
+
+.clase {
+  background-color: #000000;
+  color: #f8d211;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Puedes agregar más estilos según sea necesario */
+}
