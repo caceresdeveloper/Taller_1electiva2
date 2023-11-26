@@ -36,11 +36,16 @@ taller de js, con plantillas ejs, node
    4.1. El sistema debe ser compatible con diferentes navegadores web y dispositivos para garantizar una experiencia consistente para todos los usuarios.
 
 ## Diseño UML:
+![image](https://github.com/caceresdeveloper/Taller_1electiva2/assets/86021344/8635c018-fb86-401d-8912-2bc1a659eef1)
 
 ### Mockups del Sistema:
 
 - **Ilustración 2. Página de Visualización de las Tareas**
+- ![image](https://github.com/caceresdeveloper/Taller_1electiva2/assets/86021344/261f73ec-aa0f-489e-845d-74dc847029b4)
+
   - *Fuente: Autor*
 
 - **Ilustración 3. Página de Registro de Tareas**
+- ![image](https://github.com/caceresdeveloper/Taller_1electiva2/assets/86021344/d2a4072e-67b8-45bf-abff-793bfcb5a643)
+
   - *Fuente: Autor*
